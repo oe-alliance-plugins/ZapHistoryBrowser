@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Shows a list containing the zapping-history and allows user to zap to the entries or to modify them",
+  "description_recipe": "Shows a list containing the zapping-history and allows user to zap to the entries or to modify them",
+  "history_source_dir": "zaphistorybrowser",
+  "internal_package_name": "enigma2-plugin-extensions-zaphistorybrowser",
+  "module_dir_name": "ZapHistoryBrowser",
+  "output_subdir": "zaphistorybrowser",
+  "package_name": "enigma2-plugin-extensions-zaphistorybrowser",
+  "plugin_src_rel": "zaphistorybrowser",
+  "python_package": "ZapHistoryBrowser",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "ZapHistoryBrowser",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
