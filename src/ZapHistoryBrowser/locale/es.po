@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZapHistoryBrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2009-01-09 14:34+0100\n"
 "Last-Translator: José Juan Zapater <josej@zapater.fdns.net>\n"
 "Language-Team: none\n"
@@ -17,38 +17,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: /home/aliabdul/dream/enigma2-plugins/zaphistorybrowser/src\n"
 
+#: ../plugin.py:236
 msgid "Clear"
 msgstr "Limpiar"
 
+#: ../plugin.py:239
 msgid "Config"
 msgstr ""
 
+#: ../plugin.py:237
 msgid "Delete"
 msgstr "Borrar"
 
+#: ../plugin.py:143
 msgid "Enable zap history:"
 msgstr ""
 
+#: ../plugin.py:145
 msgid "Enigma1-like history:"
 msgstr ""
 
+#: ../plugin.py:144
 msgid "Maximum zap history entries:"
 msgstr ""
 
+#: ../plugin.py:238
 msgid "Zap"
 msgstr ""
 
+#: ../plugin.py:224 ../plugin.py:331
 msgid "Zap-History Browser"
 msgstr "Lista Historia-Zapeo"
 
+#: ../plugin.py:136
 msgid "Zap-History Configurator"
 msgstr ""
 
+#: ../plugin.py:60
 msgid "disabled"
 msgstr ""
 
+#: ../plugin.py:62
 msgid "disabled at parental lock"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "enabled"
 msgstr ""

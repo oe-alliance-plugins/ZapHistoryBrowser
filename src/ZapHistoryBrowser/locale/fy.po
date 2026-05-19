@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ZapHistoryBrowser\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2009-01-06 17:53+0100\n"
 "Last-Translator: gerrit <gerrit@nedlinux.nl>\n"
 "Language-Team: gerrit <fy@li.org>\n"
@@ -17,38 +17,50 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
+#: ../plugin.py:236
 msgid "Clear"
 msgstr "Wiskje"
 
+#: ../plugin.py:239
 msgid "Config"
 msgstr ""
 
+#: ../plugin.py:237
 msgid "Delete"
 msgstr "Ferwiderje"
 
+#: ../plugin.py:143
 msgid "Enable zap history:"
 msgstr ""
 
+#: ../plugin.py:145
 msgid "Enigma1-like history:"
 msgstr ""
 
+#: ../plugin.py:144
 msgid "Maximum zap history entries:"
 msgstr ""
 
+#: ../plugin.py:238
 msgid "Zap"
 msgstr ""
 
+#: ../plugin.py:224 ../plugin.py:331
 msgid "Zap-History Browser"
 msgstr "Zap-History Browser"
 
+#: ../plugin.py:136
 msgid "Zap-History Configurator"
 msgstr ""
 
+#: ../plugin.py:60
 msgid "disabled"
 msgstr ""
 
+#: ../plugin.py:62
 msgid "disabled at parental lock"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "enabled"
 msgstr ""
